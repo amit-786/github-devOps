@@ -1,0 +1,8 @@
+
+git status                                                                                     
+git add devops.py                                                                              
+git status                                                                                     
+git commit -m "First commit"                                                                   
+git status                                                                                     
+git log                                                                                        
+histroy 
